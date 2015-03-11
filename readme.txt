@@ -11,3 +11,5 @@ Creating a new branch is quick and simple
 >>>>>>> feature1
 
 Let's go home
+
+coding:utf8
