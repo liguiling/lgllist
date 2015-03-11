@@ -12,4 +12,8 @@ Creating a new branch is quick and simple
 
 Let's go home
 
-coding:utf8
+<<<<<<< HEAD
+codingut8
+=======
+/usr/bin/env.
+>>>>>>> ee3f2ff158a429e6fe422b532ba38a912e1709c1
